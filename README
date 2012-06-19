@@ -2,8 +2,7 @@ Currently this bot includes only the search feature. You can search for any quer
 
 Work to be done.
 1. Trend - List down all the trending topics (and its improvisation like location-wise, daily, and weekly)
-2. Users - Just return the basic user information.
-3. Improvisation - Include OAuth and other operations.
+2. Improvisation - Include OAuth and other operations that need authentication.
 
 User Manual
 1. Search - $ python twitterbot.py search <query> <rpp> <result_type>
