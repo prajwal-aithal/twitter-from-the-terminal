@@ -25,6 +25,7 @@ def def_printer(printstr) :
     print "----------------------- "+printstr+" -----------------------"
     print "\n \n"
 
+
 class TwitterBot :
     def __init__(self) :
         self.searchconn = httplib.HTTPConnection('search.twitter.com')
