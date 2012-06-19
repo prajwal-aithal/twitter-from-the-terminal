@@ -7,4 +7,7 @@ Work to be done.
 4. Improvisation - Include OAuth and other operations.
 
 User Manual
-1. Search - python twitterbot.py search <query with appropriate escape characters>
+1. Search - $ python twitterbot.py search <query> <rpp> <result_type>
+	<query> - Escaped search query
+	<rpp> - rpp number is the number of results (maximum of 100)
+	<result_type> - mixed / recent/ popular.
